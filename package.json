@@ -1,0 +1,156 @@
+{
+    "author": "A.Clymer+ElijahB",
+    "dependencies": {},
+    "keywords": [],
+    "name": "meme-wars",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "Meme Wars",
+        "enableMultiJS": false,
+        "messageKeys": {
+            "Autosave": 4,
+            "Backlight": 2,
+            "Days": 3,
+            "Vibrate": 1
+        },
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/menu_icon.png",
+                    "memoryFormat": "Smallest",
+                    "menuIcon": true,
+                    "name": "IMAGE_MENU_ICON",
+                    "spaceOptimization": "memory",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Trenchcoat.png",
+                    "memoryFormat": "Smallest",
+                    "name": "IMAGE_TRENCHCOAT_ICON",
+                    "spaceOptimization": "memory",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Subway.png",
+                    "memoryFormat": "Smallest",
+                    "name": "IMAGE_SUBWAY_ICON",
+                    "spaceOptimization": "memory",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Shark.png",
+                    "memoryFormat": "Smallest",
+                    "name": "IMAGE_LOAN_SHARK_ICON",
+                    "spaceOptimization": "memory",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Sell.png",
+                    "memoryFormat": "Smallest",
+                    "name": "IMAGE_SELL_ICON",
+                    "spaceOptimization": "memory",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Rx.png",
+                    "memoryFormat": "Smallest",
+                    "name": "IMAGE_GAME_ICON",
+                    "spaceOptimization": "memory",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Return.png",
+                    "memoryFormat": "Smallest",
+                    "name": "IMAGE_RETURN_ICON",
+                    "spaceOptimization": "memory",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Prices.png",
+                    "memoryFormat": "Smallest",
+                    "name": "IMAGE_PRICES_ICON",
+                    "spaceOptimization": "memory",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/DWPD.png",
+                    "memoryFormat": "Smallest",
+                    "name": "IMAGE_DWPD_ICON",
+                    "spaceOptimization": "memory",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Buy.png",
+                    "memoryFormat": "Smallest",
+                    "name": "IMAGE_BUY_ICON",
+                    "spaceOptimization": "memory",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Bank.png",
+                    "memoryFormat": "Smallest",
+                    "name": "IMAGE_BANK_ICON",
+                    "spaceOptimization": "memory",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "a53e5abf-dea3-4d36-b49d-8ada0038403f",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "3.5.0"
+}
